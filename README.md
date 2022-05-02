@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sampanna-b
-- 👀 I’m interested in ... finance, economics, discrete maths, probability theory, and casino over-the-table card games (lol). 
+- 👀 I’m interested in ... economics, discrete maths, probability theory, chess, and casino over-the-table card games (lol). 
 - 🌱 I’m currently learning ... programming.
 - 💞️ I’m looking to collaborate on ... coding projects
 - 📫 How to reach me ... at sampanna@upenn.edu
