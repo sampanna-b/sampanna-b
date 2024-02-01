@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sampanna-b
-- 👀 I’m interested in ... economics, discrete maths, and probability theory.
+- 👀 I’m interested in ... economics, discrete math, and probability theory.
 - 🌱 I’m currently learning ... programming.
 - 📫 How to reach me ... at sampanna@upenn.edu
 
