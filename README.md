@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sampanna-b
-- 👀 I’m interested in ... data science, discrete math, and probability theory.
-- 🌱 I’m currently learning ... programming.
+- 👀 I’m interested in ... software developement and data science.
 - 📫 How to reach me ... at sampanna@upenn.edu
 
 <!---
