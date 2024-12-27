@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sampanna-b
-- 👀 I’m interested in ... software developement and data science.
-- 🚀 Currently at a startup!
+👀 Passionate about ... software development and data science
+🚀 Currently building exciting things at a startup!
 - 📫 How to reach me ... at sampanna@upenn.edu
 
 <!---
