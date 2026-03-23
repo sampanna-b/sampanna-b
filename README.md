@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sampanna, or just Sam
-- 👀 Passionate about ... software development and data science
-- 🚀 Currently building exciting things at a startup!
+- 👀 Passionate about ... software development, data science, and probability & statictics. 
+- 🚀 Currently building AI-powered tools and intelligent systems!
 - 📫 How to reach me ... at sampanna@upenn.edu
 
 <!---
